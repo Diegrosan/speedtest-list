@@ -16,4 +16,44 @@
         <name>Claro Net Vírtua - Rio de Janeiro</name>
         <id>14612</id>
     </server>
+    <server>
+        <name>JSMNET - João Pessoa</name>
+        <id>34511</id>
+    </server>
+    <server>
+        <name>PRONET PARÁ - Belém</name>
+        <id>52558</id>
+    </server>
+    <server>
+        <name>Net Mais - Campos Gerais - MG</name>
+        <id>19538</id>
+    </server>
+    <server>
+        <name>TIM Brasil - Belo Horizonte</name>
+        <id>12564</id>
+    </server>
+    <server>
+        <name>SPEEDFIBRA TELECOMUNICAÇÕES - Belo Horizonte</name>
+        <id>54083</id>
+    </server>
+    <server>
+        <name>Giga Telecom - Salvador</name>
+        <id>28385</id>
+    </server>
+    <server>
+        <name>Claro Net Vírtua - São Luís</name>
+        <id>22248</id>
+    </server>
+    <server>
+        <name>iProv Banda Larga - Santa Maria do Pará</name>
+        <id>30696</id>
+    </server>
+    <server>
+        <name>Surfshark Ltd - New York, NY</name>
+        <id>36817</id>
+    </server>
+    <server>
+        <name>TECHNICAL INTERNET - Campina Grande</name>
+        <id>63964</id>
+    </server>
 </servers>
