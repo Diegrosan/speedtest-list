@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+    <server>
+        <name>Claro Móvel SP1 - São Paulo</name>
+        <id>18103</id>
+    </server>
+    <server>
+        <name>GIGA FIBER NET - Sao Paulo</name>
+        <id>58898</id>
+    </server>
+    <server>
+        <name>Hostzone - São Paulo</name>
+        <id>43144</id>
+    </server>
+    <server>
+        <name>Claro Net Vírtua - Rio de Janeiro</name>
+        <id>14612</id>
+    </server>
+</servers>
